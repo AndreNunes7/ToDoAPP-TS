@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index 'mongodb+srv://kayky229027:91609230@cluster0.odjbng4.mongodb.net/?TarefasDBretryWrites=true&w=majority&appName=Cluster0' ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
